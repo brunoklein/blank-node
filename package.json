@@ -1,0 +1,31 @@
+{
+  "name": "blank-node",
+  "version": "1.0.0",
+  "description": "Blank node project with express!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoklein/blank-node.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "@brunoklein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoklein/blank-node/issues"
+  },
+  "homepage": "https://github.com/brunoklein/blank-node#readme",
+  "dependencies": {
+    "connect-ganalytics": "0.0.1",
+    "express": "^4.17.1",
+    "helmet": "^3.21.0",
+    "mongoose": "^5.6.13",
+    "nodemon": "^1.19.2",
+    "querystring": "^0.2.0"
+  }
+}

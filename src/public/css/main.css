@@ -1,0 +1,18 @@
+body {
+    padding-bottom: 20px;
+    text-decoration: none !important;
+    background-color: #f8f9fe !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+button.navbar-toggler {
+    border: none !important;
+    outline: none !important;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
