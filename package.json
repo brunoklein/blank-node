@@ -22,7 +22,7 @@
   "homepage": "https://github.com/brunoklein/blank-node#readme",
   "dependencies": {
     "connect-ganalytics": "0.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.21.0",
     "mongoose": "^5.6.13",
     "nodemon": "^1.19.2",
